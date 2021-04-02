@@ -28,4 +28,4 @@ Some stuff that we have used for this project, including:
 
 ### License
 
-MyTuTran & JiheuiYu :copyright: 2020
+EvanChan & JiheuiYu :copyright: 2020
