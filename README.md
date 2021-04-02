@@ -12,10 +12,20 @@ To see this project, clone it and open `index.html` with a [browser](https://www
 
 To view our Roadmap for this project, click [here](https://docs.google.com/document/d/1Uh4-_7EEtK07nYwV0pA6GJO_X9-JPdzIEDwVTaEjhd4/edit?usp=sharing)
 
+### Techonology
+Some stuff that we have used for this project, including:
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe After Effects
+- Cinema 4D
+- HTML5
+- CSS & SASS
+- JavaScript
+
 ### Team Members
 - My Tu Tran (Evan): Developer :sunglasses:
 - Jiheui Yu: Designer	:relaxed:
 
 ### License
 
-MyTuTran & JiheuiYu :copyright: 2020# Therabreath_Budweiser_Beer
+MyTuTran & JiheuiYu :copyright: 2020
