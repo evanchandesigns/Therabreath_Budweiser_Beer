@@ -23,7 +23,7 @@ Some stuff that we have used for this project, including:
 - JavaScript
 
 ### Team Members
-- My Tu Tran (Evan): Developer :sunglasses:
+- Evan Chan: Developer :sunglasses:
 - Jiheui Yu: Designer	:relaxed:
 
 ### License
