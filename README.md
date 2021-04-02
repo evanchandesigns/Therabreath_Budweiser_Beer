@@ -1,8 +1,10 @@
-# Final Integrated Project :page_facing_up:
+# A Brand Merging Project :page_facing_up:
 
 ![Therabreath](images/readme_banner.jpg "Therabreath Banner")
 
-## Create a 5-page responsive website for the assigned coherent beer brand. :beer:
+### Introduction
+We created a beer website by merging two different brands together "Therabreath" & Budweiser.
+The design style will be based on the aethestics of "Budweiser", but the content will revolve around the brand of "Therabreath".
 
 ### Prerequisites
 
